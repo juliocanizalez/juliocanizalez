@@ -45,7 +45,7 @@ style="margin-right: 1rem"/>
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocanizalez&hide=html,plpgsql&langs_count=6)](https://github.com/juliocanizalez/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocanizalez&hide=html,plpgsql&langs_count=6&layout=compact)](https://github.com/juliocanizalez/)
 
 
 [website]: https://www.juliocanizalez.com
