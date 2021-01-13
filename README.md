@@ -41,7 +41,11 @@ style="margin-right: 1rem"/>
 
 ---
 
-![juliocanizalez's github stats](https://github-readme-stats.vercel.app/api?username=juliocanizalez&show_icons=true&theme=radical)
+![juliocanizalez's github stats](https://github-readme-stats.vercel.app/api?username=juliocanizalez&show_icons=true&theme=radical&hide=prs,issues)
+
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocanizalez&hide=html,plpgsql&langs_count=6)](https://github.com/juliocanizalez/)
 
 
 [website]: https://www.juliocanizalez.com
