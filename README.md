@@ -6,7 +6,7 @@
 ## I'm a Developer, musician and a human!!
 
 - 🌱 I’m currently learning React.js, React Router and Redux, Node.js, Express.js and Passport.js 
-- 🥅 2021 Goals: Springboot, Laravel, Android and iOS Development
+- 🥅 2021 Goals: GraphQL, Springboot, Laravel, Android and iOS Development
 ### Connect with me:
 
 [<img align="left" alt="juliocanizalez.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
