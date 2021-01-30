@@ -7,7 +7,7 @@
 
 - :seedling: I’m currently learning React.js, React Router and Redux, Node.js, Express.js and Passport.js 
 - :goal_net: 2021 Goals: GraphQL, Springboot, Laravel, Android and iOS Development
-- :page_facing_up:See all my academic projects [here](https://github.com/ProjectsbyJulio)
+- :page_facing_up: See all my academic projects [here](https://github.com/ProjectsbyJulio)
 ### Connect with me:
 
 [<img align="left" alt="juliocanizalez.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
