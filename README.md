@@ -5,8 +5,8 @@
 
 ## I'm a Developer, musician and a human!!
 
-- :seedling: I’m currently learning React.js, React Router and Redux, Node.js, Express.js and Passport.js 
-- :goal_net: 2021 Goals: GraphQL, Springboot, Laravel, Android and iOS Development
+- :seedling: I’m currently learning Android and iOS Development with Flutter
+- :goal_net: 2021 Goals: GraphQL 
 - :page_facing_up: See all my academic projects [here](https://github.com/ProjectsbyJulio)
 ### Connect with me:
 
