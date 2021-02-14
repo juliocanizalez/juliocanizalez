@@ -10,10 +10,10 @@
 - :page_facing_up: See all my academic projects [here](https://github.com/ProjectsbyJulio)
 ### Connect with me:
 
-[<img align="left" alt="juliocanizalez.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Julio Canizalez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Julio Canizalez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Julio Canizalez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="juliocanizalez.com" width="22px" src="https://raw.githubusercontent.com/akveo/eva-icons/70d2471ff88ab1385d3310b93a406243377b53d5/package/icons/fill/svg/browser.svg" />][website]
+[<img align="left" alt="Julio Canizalez | Twitter" width="22px" src="https://raw.githubusercontent.com/akveo/eva-icons/70d2471ff88ab1385d3310b93a406243377b53d5/package/icons/fill/svg/twitter.svg" />][twitter]
+[<img align="left" alt="Julio Canizalez | LinkedIn" width="22px" src="https://raw.githubusercontent.com/akveo/eva-icons/70d2471ff88ab1385d3310b93a406243377b53d5/package/icons/fill/svg/linkedin.svg" />][linkedin]
+
 
 <br />
 
