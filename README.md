@@ -23,8 +23,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right: 1rem"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-right: 1rem"/>
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" style="margin-right: 1rem" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" style="margin-right: 1rem" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="margin-right: 1rem"/>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" 
 style="margin-right: 1rem"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 1rem" />
@@ -32,7 +30,6 @@ style="margin-right: 1rem"/>
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="margin-right: 1rem" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 1rem" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin-right: 1rem" />
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" style="margin-right: 1rem" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" style="margin-right: 1rem" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" style="margin-right: 1rem" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 1rem"/>
@@ -49,7 +46,7 @@ style="margin-right: 1rem"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocanizalez&hide=html,plpgsql&langs_count=6&layout=compact)](https://github.com/juliocanizalez/)
 
 
-[website]: https://www.juliocanizalez.com
+[website]: https://juliocanizalez.com
 [twitter]: https://twitter.com/julioecanizalez
 [instagram]: https://instagram.com/juliocanizalez
 [linkedin]: https://linkedin.com/in/juliocanizalez
