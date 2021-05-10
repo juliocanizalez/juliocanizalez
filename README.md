@@ -6,7 +6,7 @@
 ## I'm a Developer, musician and a human!!
 
 - :seedling: I’m currently learning Android and iOS Development with Flutter
-- :goal_net: 2021 Goals: GraphQL 
+- :goal_net: 2021 Goals: GraphQL, TypeScript and Python 
 - :page_facing_up: See all my academic projects [here](https://github.com/ProjectsbyJulio)
 ### Connect with me:
 
