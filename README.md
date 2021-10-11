@@ -20,19 +20,19 @@
 
 ### Languages and Tools:
 
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/intellijidea.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/iterm2.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" style="background: #aaaaaa; border-radius: 0.4rem;" />
+<img height="40" align="left" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/intellijidea.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/iterm2.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" style="background: #aaaaaa; border-radius: 0.4rem;" />
 <br/><br/>
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/springboot.svg" style="background: #aaaaaa; border-radius: 0.4rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
+<img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/springboot.svg" style="background: #aaaaaa; border-radius: 0.4rem" />
 <br />
 <br />
 
