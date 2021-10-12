@@ -11,10 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Julio Canizalez | Website" width="22px" src="https://res.cloudinary.com/dqaav1s3t/image/upload/v1613343759/Web/icons8-buscar-en-el-navegador-64_ic8xeg.png"/>][website]
-[<img align="left" alt="Julio Canizalez | Twitter" width="22px" src="https://res.cloudinary.com/dqaav1s3t/image/upload/v1613343888/Web/icons8-twitter-64_wbeeey.png" />][twitter]
-[<img align="left" alt="Julio Canizalez | LinkedIn" width="22px" src="https://res.cloudinary.com/dqaav1s3t/image/upload/v1613343969/Web/icons8-linkedin-96_ewplyr.png" />][linkedin]
-[<img align="left" alt="Julio Canizalez | Instagram" width="22px" src="https://res.cloudinary.com/dqaav1s3t/image/upload/v1613344018/Web/icons8-instagram-96_qwh7dy.png" />][instagram]
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 
@@ -26,7 +25,6 @@
 <img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
 <img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
 <img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" style="background: #aaaaaa; border-radius: 0.4rem;" />
-<br/><br/>
 <img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
 <img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
 <img height="40" width="40" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" style="background: #aaaaaa; border-radius: 0.4rem; margin-right:1rem" />
@@ -46,5 +44,4 @@
 
 [website]: https://juliocanizalez.com
 [twitter]: https://twitter.com/julioecanizalez
-[instagram]: https://instagram.com/juliocanizalez
 [linkedin]: https://linkedin.com/in/juliocanizalez
