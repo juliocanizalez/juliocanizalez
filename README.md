@@ -5,8 +5,6 @@
 
 ## I'm a Developer, musician and a human!!
 
-- :seedling: I’m currently learning React Native and Java Spring
-- :goal_net: 2021 Goals: Python, React Native
 - :page_facing_up: See all my academic projects [here](https://github.com/bullshitprojects)
 
 ### Connect with me:
