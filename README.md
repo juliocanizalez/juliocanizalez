@@ -71,7 +71,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocanizalez&hide=html,plpgsql&langs_count=6&layout=compact)](https://github.com/juliocanizalez/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocanizalez&layout=compact&hide=dart,c#)](https://github.com/juliocanizalez/)
 
 [website]: https://juliocanizalez.com
 [twitter]: https://twitter.com/julioecanizalez
