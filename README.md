@@ -65,14 +65,6 @@
 <br />
 <br />
 
----
-
-![juliocanizalez's github stats](https://github-readme-stats.vercel.app/api?username=juliocanizalez&show_icons=true&theme=radical&hide=prs,issues)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocanizalez&layout=compact&hide=dart,c#)](https://github.com/juliocanizalez/)
-
 [website]: https://juliocanizalez.com
 [twitter]: https://twitter.com/julioecanizalez
 [linkedin]: https://linkedin.com/in/juliocanizalez
