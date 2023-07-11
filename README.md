@@ -1,7 +1,5 @@
 ## Hi there, I'm Julio! 👋
 
--   :page_facing_up: See all my academic projects [here](https://github.com/bullshitprojects)
-
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
