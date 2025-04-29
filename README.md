@@ -20,7 +20,6 @@
 [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](#)
 [<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/csharp-672179.svg?style=for-the-badge&logo=csharp&logoColor=white" />](#)
 
 ### Databases:
 
@@ -31,14 +30,12 @@
 ### Frameworks / Libraries
 
 [<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />](#)
-[<img src="https://img.shields.io/badge/Vue-fcfcfc.svg?style=for-the-badge&logo=vuedotjs" />](#)
 [<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/EF%20Core-68217a.svg?style=for-the-badge&logo=dotnet&logoColor=white" />](#)
 
 ### Version Control:
 
@@ -61,7 +58,3 @@
 
 <br />
 <br />
-
-[website]: https://juliocanizalez.com
-[twitter]: https://twitter.com/julioecanizalez
-[linkedin]: https://linkedin.com/in/juliocanizalez
