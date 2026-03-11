@@ -6,7 +6,7 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocanizalez&layout=donut)](https://github.com/juliocanizalez?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocanizalez&show_icons=true&theme=transparent&hide=dart,css,html,scss,c%23,vue,javascript&layout=compact)](https://github.com/juliocanizalez?tab=repositories)
 
 ### IDE and Text Editors:
 
